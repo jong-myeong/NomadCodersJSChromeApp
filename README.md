@@ -1,2 +1,3 @@
-# NomadCoders_JS_Chrome_App_Clone
-NomadCoders JS Chrome App Clone for studying JavaScript
+# NomadCoders JS Chrome App
+
+Clone Coding for studying JavaScript
