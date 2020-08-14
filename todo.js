@@ -4,6 +4,7 @@ const toDoForm = document.querySelector(".js-toDoForm"),
 
 const TODOS_LOCALSTORAGE = 'toDos';
 
+// to do 항목을 담을 list 초기화
 let toDos = [];
 
 function deleteToDo(event) {
